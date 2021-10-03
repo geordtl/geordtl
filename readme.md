@@ -1,7 +1,8 @@
 # hi, I'm Geovanna
 
 ### About me
-I'm studying frontend technologies, like:  
+I'm studying frontend technologies:  
 
+⇒ HTML, CSS
 ⇒ JavaScript
 ⇒ VueJS
