@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou a Geovanna! ✨
 
-Tenho conhecimento em: HTML, CSS, JavaScript, VueJS e NuxtJS. 
+-  🌱 Estudando VueJS e NuxtJS
 Atualmente continuo estudando os conteúdos citados, buscando ampliar meu conhecimento sobre estes.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
