@@ -10,4 +10,4 @@ Atualmente continuo estudando os conteúdos citados, buscando ampliar meu conhec
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=compact)](https://github.com/geordtl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=compact&theme=dracula)](https://github.com/geordtl)
