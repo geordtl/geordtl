@@ -14,6 +14,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   
-</div>
+</div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=compact&theme=dracula)](https://github.com/geordtl)
