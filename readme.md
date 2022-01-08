@@ -11,6 +11,3 @@ Atualmente continuo estudando os conteúdos citados, buscando ampliar meu conhec
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=compact)](https://github.com/geordtl)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geordtl&show_icons=true&theme=radical)
-
