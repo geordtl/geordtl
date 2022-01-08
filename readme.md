@@ -1,3 +1,5 @@
+![banner](https://commons.bmstu.wiki/images/5/55/Hello_world1.gif)
+
 Olá, sou a Geovanna! ✨
 
 Tenho conhecimento em: HTML, CSS, JavaScript, VueJS e NuxtJS. 
