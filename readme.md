@@ -5,7 +5,7 @@
 -  🌱 Estudando VueJS e NuxtJS
 
 <div style="display: inline-block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
 </div>
 
