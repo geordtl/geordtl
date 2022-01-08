@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou a Geovanna! ✨
 
--  🖥️ Trabalho como QA testes e desenvolvendo projetos como front-end.
+-  🖥️ Trabalho como QA tester e estou desenvolvendo projetos como front-end.
 -  🌱 Estudando VueJS e NuxtJS
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
