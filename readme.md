@@ -1,6 +1,7 @@
 
 ## Olá! Eu sou a Geovanna! ✨
 
+- ![image](https://user-images.githubusercontent.com/73962068/148654714-153144d3-dd1f-4731-a66d-de5eb5cb3583.png) Trabalho como QA testes e desenvolvendo projetos como front-end.
 -  🌱 Estudando VueJS e NuxtJS
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
