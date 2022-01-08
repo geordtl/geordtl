@@ -17,3 +17,7 @@
 </div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=compact&theme=dracula)](https://github.com/geordtl)
+
+  ##
+  
+ <a href="mailto: geogeovannarn@gmail.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
