@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou a Geovanna! ✨
 
--  🖥️ Trabalho como QA tester e como Desenvolvedora Frontend.
+-  🖥️ Trabalho como QA tester e Desenvolvedora Frontend.
 -  🌱 Estudando VueJS e NuxtJS
 
   ##
