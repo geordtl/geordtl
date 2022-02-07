@@ -1,4 +1,5 @@
 <img align="right" height="300" width="310" src="/code_png.gif" />
+
 ## Olá! Eu sou a Geovanna! :sparkles: 
 
 -  🖥️ Trabalho como QA tester e Desenvolvedora Frontend.
