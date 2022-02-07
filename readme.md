@@ -7,7 +7,7 @@
   ##
   
   
- <img align="center" height="100" width="110" src="/code.gif" />
+ <img align="center" height="300" width="310" src="/code.gif" />
 <div style="display: inline-block"><br>
   
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
