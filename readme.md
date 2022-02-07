@@ -6,7 +6,6 @@
 
   ##
   
-<iframe src="https://embed.lottiefiles.com/animation/89113"></iframe>
 <div style="display: inline-block"><br>
   
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
