@@ -1,6 +1,3 @@
-
-<div style="display: flex; flex-direction: column">
-  <div>
 ## Olá! Eu sou a Geovanna! ✨
 
 -  🖥️ Trabalho como QA tester e Desenvolvedora Frontend.
@@ -10,9 +7,7 @@
   </div>
   <div>
   
- <img align="center" height="300" width="310" src="/code_png.gif" />
-  </div>
-</div>
+ <img align="right" height="300" width="310" src="/code_png.gif" />
  
 <div style="display: inline-block"><br>
   
