@@ -1,13 +1,11 @@
 ## Olá! Eu sou a Geovanna! ✨
-
+ <img align="right" height="300" width="310" src="/code_png.gif" />
 -  🖥️ Trabalho como QA tester e Desenvolvedora Frontend.
 -  🌱 Estudando VueJS e NuxtJS
 
- <img align="right" height="300" width="310" src="/code_png.gif" />
+
  
  ##
-  </div>
-  <div>
   
 <div style="display: inline-block"><br>
   
