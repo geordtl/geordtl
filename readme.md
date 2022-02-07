@@ -4,7 +4,7 @@
 
 -  🖥️ Trabalho como QA tester e Desenvolvedora Frontend.
 -  🌱 Estudando VueJS e NuxtJS
--  
+
 ##
   
 <div style="display: inline-block"><br>
