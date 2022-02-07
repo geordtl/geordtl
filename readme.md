@@ -1,5 +1,5 @@
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: column">
 ## Olá! Eu sou a Geovanna! ✨
 
 -  🖥️ Trabalho como QA tester e Desenvolvedora Frontend.
