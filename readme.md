@@ -2,7 +2,7 @@
 
 ## Olá, eu sou a Geovanna!
 
--  🖥️ Trabalho como QA tester e Desenvolvedora Web Frontend na Play Serviços.
+-  🖥️ Trabalho como Desenvolvedora Frontend (Web) na Play Serviços.
 -  🌱 Estudando VueJS e NuxtJS
 
 ##
