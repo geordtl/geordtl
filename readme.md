@@ -1,6 +1,6 @@
 <img align="right" height="300" width="310" src="/code_png.gif" />
 
-<h1 class="user">Olá, eu sou a Geovanna! </h1>
+## Olá, eu sou a Geovanna!
 
 -  🖥️ Trabalho como Desenvolvedora Frontend (Web) na Play Serviços.
 -  🌱 Estudando VueJS e NuxtJS
@@ -23,7 +23,3 @@
   
  <a href="mailto: geogeovannarn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
  <a href="https://www.linkedin.com/in/geovanna-rodrigues-384158219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
-.user {
-  color: red;
-}
