@@ -2,7 +2,7 @@
 
 ## Olá, sou a Geovanna!
 
--  🖥️ Trabalho como Desenvolvedora Frontend (Web) na Play Serviços.
+-  🖥️ Trabalho como Desenvolvedora Frontend (Web).
 -  🌱 Estudando VueJS e NuxtJS
 
 ##
