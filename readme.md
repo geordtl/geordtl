@@ -18,7 +18,7 @@
   
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=compact&theme=radical)](https://github.com/geordtl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=compact&theme=cobalt)](https://github.com/geordtl)
 
   ##
   
