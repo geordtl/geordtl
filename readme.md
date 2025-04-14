@@ -47,6 +47,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:c334eb,100:ff2176&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:c334eb,100:ff2176&section=footer"/>
 </p>
 
