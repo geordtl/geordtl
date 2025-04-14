@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&size_weight=0.5&count_weight=0.5&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geordtl&layout=donut-vertical&theme=radical)](https://github.com/geordtl/github-readme-stats)
   
 </div>
 
