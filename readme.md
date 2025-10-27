@@ -5,11 +5,14 @@
 <h2 align="center">Olá 👋</h2>
 
 <p align="center">
-  🖥️ Sou uma desenvolvedora frontend (Web).<br>
+  🖥️ Sou desenvolvedora Frontend (Web).<br>
   ⚡ Técnico Integrado em Informática pelo Instituto Federal de Mato Grosso do Sul (IFMS)<br>
   ⚡ Cursando Sistemas de Informação na UFMS
 </p>
 
+<p align="center">
+  <a href="https://geordtl.github.io/Portfolio/" target="_blank">✨ Portfólio</a>
+</p>
 
 <div align="center">
   
